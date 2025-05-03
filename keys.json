@@ -1,6 +1,6 @@
-{
+const keys = {
   "user_key_1": {
-    "name": "John Doe",
-    "email": "john@example.com"
+    name: "John Doe",
+    email: "john@example.com"
   }
-}
+};
